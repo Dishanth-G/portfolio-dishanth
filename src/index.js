@@ -15,7 +15,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter>
       <Navbar/>
-      <Routes>
+      <Routes basename="/portfolio-dishanth" >
         <Route path='/' element={<Home/>}/>
         <Route path='/experience' element={<Experience/>}/>
         <Route path='/projects' element={<Projects/>}/>
