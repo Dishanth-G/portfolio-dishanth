@@ -71,7 +71,7 @@ export const experiences = [
             'Migrated user survey participation limits from the database to a specialized counting microservice powered by Redis and DynamoDB, resulting in 30 % reduction in Survey EUI load and database utilization during user responses.',
             'Mentored and guided a cohort of 5 interns through technical training, reducing onboarding time by 40% and boosting their productivity by 50%, significantly enhancing team output and project completion rates'
         ],
-        'url': 'https://inncircles.com/#home',
+        'url': 'https://surveysparrow.com/',
     },
     {
         'company': 'Bank of America',
@@ -82,7 +82,7 @@ export const experiences = [
             'Created a robust Python automation comparison tool for analyzing non-dimensional data records, improving data processing speed by 50%',
             'Developed a data collection tool using pandas, storing and categorizing over 1,000 production issue emails, enhancing issue tracking efficiency by 40%'
         ],
-        'url': 'https://www.att.com/',
+        'url': 'https://www.bankofamerica.com/',
     },
 ]
 

@@ -33,9 +33,9 @@ const About = () => {
         <div className='flex flex-col justify-around'>
           <div className='sm:px-16 px-2'>
             <h2 className='text-4xl sm:text-5xl font-extrabold mt-2'>Introduction</h2>
-            <p className='mt-3 mb-6 text-[17px] max-w-3xl leading-[30px]'>👨‍💻 Hi, I'm Dishanth,         
+            <p className='mt-3 mb-6 text-[17px] max-w-screen-xl  leading-[30px]'>👨‍💻 Hi, I'm Dishanth,         
             A highly motivated and passionate  <a className='text-green-300 hover:text-green-500 duration-300' href='https://www.linkedin.com/in/dishanthg/' target='_blank'>Full Stack Software developer</a>  with 2+ years of experience in product-based companies, excelling in NodeJS, React, AWS, Redux, SQL, and ElasticSearch. 
-            <br /> Successfully developed scalable features with record stable quality, mentored interns, and managed small teams, demonstrating leadership and collaborative abilities. Passionate about leveraging skills to drive business success and eager to connect with professionals and explore new opportunities.</p>
+            <br /> <br />Successfully developed scalable features with record stable quality, mentored interns, and managed small teams, demonstrating leadership and collaborative abilities. Passionate about leveraging skills to drive business success and eager to connect with professionals and explore new opportunities.</p>
             
             
             {/* <a className='text-green-300 hover:text-green-500 duration-300' href='https://www.linkedin.com/in/dishanthg/' target='_blank'>Full Stack Software developer</a> 
