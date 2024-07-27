@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.d33ff60c.css",
-    "main.js": "/static/js/main.1ec2c1e2.js",
-    "static/js/453.0968b155.chunk.js": "/static/js/453.0968b155.chunk.js",
-    "static/media/VoiceBased.png": "/static/media/VoiceBased.21e57bae866c71e244bb.png",
-    "static/media/AWSlogo.jpg": "/static/media/AWSlogo.2cae3c67e275145fed2e.jpg",
-    "static/media/copeople.png": "/static/media/copeople.d67f7e541d45db45cf45.png",
-    "static/media/JSTSlogo.jpg": "/static/media/JSTSlogo.adc7687abd8f0a7fd6b4.jpg",
-    "static/media/VIT_Logo.png": "/static/media/VIT_Logo.23169484993aa3684ae9.png",
-    "static/media/redis_logo-1.png": "/static/media/redis_logo-1.7b4057a494009b6a08e4.png",
-    "static/media/ExpressLogo.png": "/static/media/ExpressLogo.304b141b6c72993d3aad.png",
-    "static/media/Java-Logo.png": "/static/media/Java-Logo.6c1a3b5f7e2d535bff5b.png",
-    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/elasticsearch-b-v-logo-vector.png": "/static/media/elasticsearch-b-v-logo-vector.09bcb745e04c21862971.png",
-    "static/media/boa-logo.jpg": "/static/media/boa-logo.23f9cdbce4af70fd3935.jpg",
-    "static/media/SQL.png": "/static/media/SQL.e742a0a409270dbe6e7e.png",
-    "static/media/Redux.png": "/static/media/Redux.543b98d3c75b48613322.png",
-    "index.html": "/index.html",
-    "main.d33ff60c.css.map": "/static/css/main.d33ff60c.css.map",
-    "main.1ec2c1e2.js.map": "/static/js/main.1ec2c1e2.js.map",
-    "453.0968b155.chunk.js.map": "/static/js/453.0968b155.chunk.js.map"
+    "main.css": "/portfolio-dishanth/static/css/main.d33ff60c.css",
+    "main.js": "/portfolio-dishanth/static/js/main.90fd48db.js",
+    "static/js/453.0968b155.chunk.js": "/portfolio-dishanth/static/js/453.0968b155.chunk.js",
+    "static/media/VoiceBased.png": "/portfolio-dishanth/static/media/VoiceBased.21e57bae866c71e244bb.png",
+    "static/media/AWSlogo.jpg": "/portfolio-dishanth/static/media/AWSlogo.2cae3c67e275145fed2e.jpg",
+    "static/media/copeople.png": "/portfolio-dishanth/static/media/copeople.d67f7e541d45db45cf45.png",
+    "static/media/JSTSlogo.jpg": "/portfolio-dishanth/static/media/JSTSlogo.adc7687abd8f0a7fd6b4.jpg",
+    "static/media/VIT_Logo.png": "/portfolio-dishanth/static/media/VIT_Logo.23169484993aa3684ae9.png",
+    "static/media/redis_logo-1.png": "/portfolio-dishanth/static/media/redis_logo-1.7b4057a494009b6a08e4.png",
+    "static/media/ExpressLogo.png": "/portfolio-dishanth/static/media/ExpressLogo.304b141b6c72993d3aad.png",
+    "static/media/Java-Logo.png": "/portfolio-dishanth/static/media/Java-Logo.6c1a3b5f7e2d535bff5b.png",
+    "static/media/react.png": "/portfolio-dishanth/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/portfolio-dishanth/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/portfolio-dishanth/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/elasticsearch-b-v-logo-vector.png": "/portfolio-dishanth/static/media/elasticsearch-b-v-logo-vector.09bcb745e04c21862971.png",
+    "static/media/boa-logo.jpg": "/portfolio-dishanth/static/media/boa-logo.23f9cdbce4af70fd3935.jpg",
+    "static/media/SQL.png": "/portfolio-dishanth/static/media/SQL.e742a0a409270dbe6e7e.png",
+    "static/media/Redux.png": "/portfolio-dishanth/static/media/Redux.543b98d3c75b48613322.png",
+    "index.html": "/portfolio-dishanth/index.html",
+    "main.d33ff60c.css.map": "/portfolio-dishanth/static/css/main.d33ff60c.css.map",
+    "main.90fd48db.js.map": "/portfolio-dishanth/static/js/main.90fd48db.js.map",
+    "453.0968b155.chunk.js.map": "/portfolio-dishanth/static/js/453.0968b155.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d33ff60c.css",
-    "static/js/main.1ec2c1e2.js"
+    "static/js/main.90fd48db.js"
   ]
 }
