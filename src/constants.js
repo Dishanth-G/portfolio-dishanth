@@ -11,7 +11,7 @@ import Node from './assets/node.png';
 import ElasticSearch from './assets/elasticsearch-b-v-logo-vector.png';
 import Redis from './assets/redis_logo-1.png';
 import AWS from './assets/AWSlogo.jpg';
-
+import YubiLogo from './assets/yubi-logo.jpg';
 
 
 export const services = [
@@ -61,9 +61,20 @@ export const name = 'Dishanth';
 
 export const experiences = [
     {
+        'company': 'Yubi',
+        'role': 'Software Engineer',
+        'duration': 'Sept 2024 - Present',
+        'logo': YubiLogo,
+        'points': [
+            'Rearchitected and optimized the bank statement analysis system, reducing report processing time by 80% with DuckDB, and designed a scalable system capable of efficiently handling report generations concurrently using Spring Boot, Kafka, and Java ExecutorService.',
+            'Migrated the Bank Statement Analyzer system to Amazon EKS, improving scalability . Optimized 4 microservices to handle 50000+ report processing and generation requests, ensuring seamless performance under high load.',
+            'Spearheaded the development of multiple statement analysis features, leading end-to-end implementation. Contributing to a 50% increase in new client onboardings, and driving business growth.'
+        ],
+    },
+    {
         'company': 'SurveySparrow',
         'role': 'Senior Software Developer',
-        'duration': 'Oct 2022 - Present',
+        'duration': 'Oct 2022 - Sept 2024',
         'logo': ssLogo,
         'points': [
             'Launched Spotchecks, an advanced website survey embedding feature. Implemented a single snippet solution to display different surveys based on configurable conditions. Utilized React , NodeJS and OpenSearch to boost survey completion by 40%, feedback quality by 35%, and user engagement by 25%', 

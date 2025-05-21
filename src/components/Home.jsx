@@ -49,7 +49,7 @@ const Home = () => {
   </div>
   <div className="mt-6"> {/* New container for the button */}
     <ButtonLink
-      url="https://drive.google.com/file/d/1ADa6evu59ka8nSIaV3WYr71uq6gFLLUR/view?usp=sharing"
+      url="https://drive.google.com/file/d/1DGpZtJptBt2HUzkE_GJobu_neTfCrBww/view?usp=sharing"
       text="View Resume →"
       padding="p-3"
     />
